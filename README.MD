@@ -3,9 +3,9 @@ Olá, Meu nome é Roger.<br>Tenho 18 anos e estou aprendendo a programar.
 
 
 ## 💻 Redes Socias:
-[![Discord](https://img.shields.io/badge/Discord-5865F2.svg?style=for-the-badge&logo=Discord&logoColor=white)](https://discord.gg/491043552147537921) [![Instagram](https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/roger_llc) <a href="https://www.linkedin.com/in/roger-leite-7bb73a2aa/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/></a> [![Microsoft Outlook](https://img.shields.io/badge/Microsoft%20Outlook-000000.svg?style=for-the-badge&logo=Microsoft-Outlook&logoColor=white)](rogercosta.rn@hotmail.com)
+[![Discord](https://img.shields.io/badge/Discord-000000.svg?style=for-the-badge&logo=Discord&logoColor=white)](https://discord.gg/491043552147537921) [![Instagram](https://img.shields.io/badge/Instagram-000000.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/roger_llc) <a href="https://www.linkedin.com/in/roger-leite-7bb73a2aa/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/></a> [![Microsoft Outlook](https://img.shields.io/badge/Microsoft%20Outlook-000000.svg?style=for-the-badge&logo=Microsoft-Outlook&logoColor=white)](rogercosta.rn@hotmail.com)
 # 💻 Linguagens:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Python](https://img.shields.io/badge/python-000000?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 ## 💻 Ambientes de Trabalho
 <div style="display: inline-block">
