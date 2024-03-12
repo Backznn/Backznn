@@ -8,7 +8,7 @@ Olá, Meu nome é Roger.<br>Tenho 18 anos e estou aprendendo a programar.
 # 💻 Linguagens:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-## Ambientes de Trabalho
+## 💻 Ambientes de Trabalho
 <div style="display: inline-block">
   <img align="center" alt="pycharm" src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white"/>
 </div><br/>
